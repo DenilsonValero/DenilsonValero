@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/1200x/c1/23/60/c12360b87fe3c3131bfc43a45c7ee851.jpg"/>
 
 
-<h2 align="left">Hi there, I'm <a href="todoroviczoran.com" target="_blank" rel="noopener noreferrer">Denilson Valero</a>
+<h2 align="left">Hi there, I'm <a href="" target="_blank" rel="noopener noreferrer">Denilson Valero</a>
  <a href="linkedin.com/in/denilson-valero-46629a2b9"></a></h2>
 
 - 🌐 Soy un Back-end Web Developer
